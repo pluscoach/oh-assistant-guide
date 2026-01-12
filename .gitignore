@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.wav
+*.mp3
+*.pkl
+.env
+venv/
+.venv/
+*.log
+node_modules/
+google_tts_key.json
+assistant.py
