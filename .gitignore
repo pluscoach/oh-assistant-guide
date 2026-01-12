@@ -9,4 +9,3 @@ venv/
 *.log
 node_modules/
 google_tts_key.json
-assistant.py
